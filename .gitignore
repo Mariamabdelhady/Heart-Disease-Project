@@ -10,7 +10,7 @@ venv/
 .env/
 
 
-models/*.pkl
+
 results/
 *.csv
 
