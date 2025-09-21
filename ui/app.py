@@ -8,7 +8,7 @@ import numpy as np
 
 
 
-model = joblib.load("models/final_model.pkl")
+model = joblib.load("../models/final_model.pkl")
 
 st.title(" Heart Disease Prediction App")
 st.write("أدخل بيانات المريض للتنبؤ إذا كان معرض لمرض القلب أو لا.")
