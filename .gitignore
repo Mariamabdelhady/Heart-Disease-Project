@@ -9,10 +9,4 @@ pycache/
 venv/
 .env/
 
-
-
-results/
-*.csv
-
-
 .ipynb_checkpoints/

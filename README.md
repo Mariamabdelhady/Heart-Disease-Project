@@ -66,7 +66,7 @@ http://localhost:8501
 ###  Visualizations
 | ROC Curve | Confusion Matrix |
 |----------|----------------|
-| ![ROC Curve](results/roc_curve.png) | ![Confusion Matrix](results/confusion_matrix.png) |
+| ![ROC Curve](results/roc_curve (1).png) | ![Confusion Matrix](results/confusion_matrix (1).png) |
 
 ---
 
@@ -106,10 +106,12 @@ You can deploy the project online using [Streamlit Community Cloud](https://stre
 ## Author
 
 Developed by Mariam abdelhady
--  Email: [ mariamabdelhady20125@gmail.com](mailto:mariamabdelhady2012@gmail.com)  
+-  Email: [ mariamabdelhady20125@gmail.com](mailto:mariamabdelhady20125@gmail.com)  
 -  LinkedIn: [https://www.linkedin.com/in/mariam-abd-elhady-236a2236b](https://www.linkedin.com/in/https://www.linkedin.com/in/mariam-abd-elhady-236a2236b)
 
 ---
 
 ##  Data Source
 Dataset from [UCI Machine Learning Repository – Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
+---
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-project-mddyipbub83thaj8ed4thh.streamlit.app/)
